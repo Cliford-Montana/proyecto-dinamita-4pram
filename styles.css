@@ -50,7 +50,9 @@ nav ul li a:hover {
 }
 
  p {
-    color: #fff;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
     text-align: center;
     margin-top: 10px; 
     margin-bottom: 100px;
@@ -66,13 +68,13 @@ nav ul li a:hover {
 }
 
 .carta {
-    background-color: rgba(0, 0, 0, 0.8); 
+    background-color: rgba(0, 0, 0, 0.6); 
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
     transition: transform 0.3s, box-shadow 0.3s;
     text-decoration: none;
-    color: #fff; 
+    color: #fcfcfc; 
 }
 
 .carta img {
